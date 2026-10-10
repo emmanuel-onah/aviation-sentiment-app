@@ -134,8 +134,8 @@ Make sure Python and Jupyter Notebook are installed on your computer.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/emmanuel-onah/aviation-sentiment-app.git
+cd aviation-sentiment-app
 ```
 
 Replace the placeholder URL with your actual GitHub repository URL.
@@ -207,6 +207,6 @@ This project demonstrates how NLP and machine learning can be applied to airline
 
 **Onah Emmanuel Obinna**
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [Emmanuel-Onah](https://github.com/emmanuel-onah)
+- LinkedIn:
 
