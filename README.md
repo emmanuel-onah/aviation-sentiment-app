@@ -32,7 +32,7 @@ The project includes data exploration, text preprocessing, sentiment labeling, m
 
 ### 1. Data Loading and Exploration
 
-The project loads the `BA_reviews.csv` dataset and explores its structure, columns, and contents using Pandas. Exploratory data analysis (EDA) is used to understand the review data and visualize the distribution of sentiment labels.
+The project loads the BA_reviews.csv dataset and explores its structure, columns, and contents using Pandas. Exploratory data analysis (EDA) is used to understand the review data and visualize the distribution of sentiment labels.
 
 ### 2. Text Preprocessing
 
@@ -148,7 +148,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn vaderSentiment joblib j
 
 ### 3. Add the dataset
 
-Place the `BA_reviews.csv` dataset in the same directory as the notebook.
+Place the BA_reviews.csv dataset in the same directory as the notebook.
 
 The notebook expects the dataset to be available at the following path:
 
