@@ -208,5 +208,3 @@ This project demonstrates how NLP and machine learning can be applied to airline
 **Onah Emmanuel Obinna**
 
 - GitHub: [Emmanuel-Onah](https://github.com/emmanuel-onah)
-- LinkedIn:
-
